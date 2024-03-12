@@ -44,8 +44,8 @@ Example:
 ## Deployment Methods
 
 ### Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletipsalltestings/CountdownTimer-TeLeTiPs)
+https://github.com/Aashutosh12/CountdownTimer-TeLeTiPs
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aashutosh12/CountdownTimer-TeLeTiPs)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
